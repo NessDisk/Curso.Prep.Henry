@@ -26,4 +26,13 @@ de flujo
 Ejemplo:
 var A = 2, B = 5;
 
-if(A)
+if(A > B)
+console.log('A'+'B')// en este caso ejecutaria este linea
+
+else
+console.log('B'+'A')
+- Valores booleanos (true, false)
+   los valores Booleanos son valores que son de 
+   de verdadero o falso atraves de var o condicioneles
+   como > , < , == , && y ||
+
