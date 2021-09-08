@@ -1,0 +1,26 @@
+ For
+  es un tipo de buble que tiene una sintaxis unica, que evalua
+  una  condicion y la ejecuta hasta obtene el resultado deseado
+
+  ejemplo:
+   ...
+
+For(int i= 0; i < 10; i++)
+{
+console.log("Cantidad de ciclos "+i )
+}
+// este bucle imprime la cantidad de ciclo que da un  numero
+del 0 al 9
+   ...
+
+  operadores logicos &&, ||, !
+
+&& es una operdor comparar  ambas empresiones, si alguna de las 2
+es falsa, se salta esa operacion, y si es si ambas son True
+se continua la operacion.
+
+|| or  se verifican 2 expresiones si alguna de las 2  es verdad
+continua con la operacion.
+
+!  not   pide la condicion contraria a la para que sea aceptada.
+un ejemplo (!true) serie false en este caso.
