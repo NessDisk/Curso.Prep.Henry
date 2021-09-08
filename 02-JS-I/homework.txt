@@ -1,0 +1,29 @@
+Variables:
+Es un tipo de de un tipo que contiene información
+se llama variable porque puede cambiar su data 
+
+
+String 
+Una  variable de tipo texto  contiene cadenas de
+Chars que forman una el contenido pudiendo formar
+una oraciones, nombres ,identificadores... entre 
+otros.
+
+Funciones
+son creados para poder darle utilidad a acciones o
+funciones a la variables, una funcion puede tener
+un Output y un Input  
+  - argumentos
+    Los argumentos se ponen en las funciones 
+    como variables que son requeridas pasar para
+    que la funcion pueda ejecutarse.
+
+Declaraciones 
+las Declaraciones son condiciones de verdadero
+o false  (True o  false) que define el las condiciones
+de flujo
+
+Ejemplo:
+var A = 2, B = 5;
+
+if(A)
