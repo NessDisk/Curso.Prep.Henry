@@ -1,0 +1,14 @@
+Array
+es una  agrupacion e datos de un mismo tipo, existen de tipo
+lineabidimencional .... entre otros.
+los arrays pueden ser usados para ordenar  grandes grupo de informacion
+buen pueden ser consultas, formularios, listado de numeros.
+
+let Array = ["1",2,3,4];
+ 
+
+ son llamados:
+ Array[0]
+
+donde  el numero indica la posicion del dato en el array
+el cual se puede invocar y cambiar su informacion.
